@@ -1,0 +1,52 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Alamofire",
+        "repositoryURL": "https://github.com/Alamofire/Alamofire.git",
+        "state": {
+          "branch": null,
+          "revision": "75bba56748359f297a83f620d45f72cf4ebee4e7",
+          "version": "4.8.2"
+        }
+      },
+      {
+        "package": "Realm",
+        "repositoryURL": "https://github.com/realm/realm-cocoa.git",
+        "state": {
+          "branch": null,
+          "revision": "11ac74e1cc1faec1cad0e6a9a41652ef1432d4c1",
+          "version": "5.5.0"
+        }
+      },
+      {
+        "package": "RealmCore",
+        "repositoryURL": "https://github.com/realm/realm-core",
+        "state": {
+          "branch": null,
+          "revision": "612057010f5521d41559970306054f4c5b12632a",
+          "version": "6.1.4"
+        }
+      },
+      {
+        "package": "RuntimeNew",
+        "repositoryURL": "https://github.com/arturdev/RuntimeNew.git",
+        "state": {
+          "branch": null,
+          "revision": "39c7cf5b9a683c2dff931352617101304d283ad6",
+          "version": "2.1.7"
+        }
+      },
+      {
+        "package": "Unrealm",
+        "repositoryURL": "https://github.com/arturdev/Unrealm.git",
+        "state": {
+          "branch": "SPM",
+          "revision": "4298e6cd956b4915d83a65f1fe946c062ff53c9a",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
